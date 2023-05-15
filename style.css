@@ -1,0 +1,48 @@
+/*Selector {
+    Property: value;
+}*/ 
+
+* {
+    text-align: left;    
+}
+
+body{
+    background-image: url(https://elements-cover-images-0.imgix.net/1dfa57b7-5b9a-4418-b57f-088128245920?auto=compress%2Cformat&fit=max&w=1370&s=fe85c94a652e5cbe1a01b12fe359d912);
+    background-size: cover;
+}
+h1, p {
+    color: plum;
+    background-color: black;
+    text-align: center;
+    border: 5px solid black;
+    cursor: pointer;
+    font-style: italic;
+}
+
+p {
+    color: palevioletred;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+li {
+    list-style: none;
+    display:inline-block;
+    text-align: left;
+}
+h2 {
+    text-align: right;
+}
+ul {
+    text-align: right;
+}
+h3 , p {
+    text-align: center;
+    text-transform: initial;
+    font-style: italic;
+    font-size: 130%;
+    font-family: 'Satisfy', cursive;
+}
+h4, p{
+    font-family: 'Satisfy', cursive;
+}
